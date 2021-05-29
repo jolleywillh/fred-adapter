@@ -1,5 +1,5 @@
 name: fred-adapter
-description: Adapter to connect to FRED's API
+description: Adapter to connect to FRED API
 node_identifier: fred-adapter
 platforms:
   - Docker
