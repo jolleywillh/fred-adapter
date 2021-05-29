@@ -1,6 +1,6 @@
-name: fred-adapter
-description: Adapter to connect to FRED API
-node_identifier: fred-adapter
+name: FRED External Adapter
+description: An external adapter to get economic information
+node_identifier: fred_cl_ea
 platforms:
   - Docker
   - AWS Lambda
