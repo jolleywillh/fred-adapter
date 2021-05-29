@@ -29,20 +29,7 @@ See [Install Locally](#install-locally) for a quickstart
 ## Output
 
 ```json
-{"jobRunID":0,
-"data":{
-  "coord":{"lon":-71.06,"lat":42.36},
-  "weather":[{"id":701,"main":"Mist","description":"mist","icon":"50n"}],
-  "base":"stations",
-  "main":{"temp":293.67,"feels_like":294.97,"temp_min":292.59,"temp_max":294.26,"pressure":1010,"humidity":94},
-  "visibility":2414,
-  "wind":{"speed":3.1,"deg":190},
-  "clouds":{"all":90},
-  "dt":1599095117,
-  "sys":{"type":1,"id":3486,"country":"US","sunrise":1599041470,"sunset":1599088607},"timezone":-14400,"id":4930956,"name":"Boston","cod":200,"result":293.67},
-  "result":293.67,
-  "statusCode":200
-}
+To follow
 ```
 
 # Install Locally/Quickstart
