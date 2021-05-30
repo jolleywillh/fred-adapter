@@ -29,7 +29,27 @@ See [Install Locally](#install-locally) for a quickstart
 ## Output
 
 ```json
-To follow
+{
+  jobRunID: 0,
+  data: {
+    realtime_start: '2021-05-29',
+    realtime_end: '2021-05-29',
+    observation_start: '1600-01-01',
+    observation_end: '9999-12-31',
+    units: 'lin',
+    output_type: 1,
+    file_type: 'json',
+    order_by: 'observation_date',
+    sort_order: 'asc',
+    count: 92,
+    offset: 0,
+    limit: 1,
+    observations: [ [Object] ],
+    result: 1120.076
+  },
+  result: 1120.076,
+  statusCode: 200
+}
 ```
 
 # Install Locally/Quickstart

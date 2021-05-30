@@ -26,12 +26,14 @@ const createRequest = (input, callback) => {
   const series_id = validator.validated.data.data_series.toUpperCase()
   const api_key = process.env.API_KEY;
   const file_type = 'json'
+  const limit = 1
   console.log(api_key);
 
   const params = {
     series_id,
     api_key,
-    file_type
+    file_type,
+    limit
   }
 
   const config = {
